@@ -202,4 +202,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Total War: ROME II · Updated 2026-11-21 · Shared under the MIT License*
+*Total War: ROME II · Updated 2026-11-22 · Shared under the MIT License*
